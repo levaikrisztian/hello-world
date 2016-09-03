@@ -1,2 +1,3 @@
 # hello-world
-My first github repo
+Thsi is my first github repo.
+I'm a software enginieer student from Hungary.
